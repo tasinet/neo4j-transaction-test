@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "neo4j": "git://github.com/tasinet/node-neo4j#aec5169"
+  }
+}
